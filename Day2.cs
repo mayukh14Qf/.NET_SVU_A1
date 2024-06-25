@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace BCA_A1_207
 {
-    internal class Program
+    public class Day2
     {
         static void Main(string[] args)
         {
-
-
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Mayukhjit Chakraborty");
+            Console.WriteLine("Hello World day 2");
         }
     }
 }
