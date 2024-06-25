@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\bin\Debug\BCA_A1_207.exe.config
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\bin\Debug\BCA_A1_207.exe
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\bin\Debug\BCA_A1_207.pdb
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\obj\Debug\BCA_A1_207.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\obj\Debug\BCA_A1_207.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\obj\Debug\BCA_A1_207.exe
+C:\Users\LENOVO\source\repos\BCA_A1_207\BCA_A1_207\obj\Debug\BCA_A1_207.pdb
