@@ -6,7 +6,14 @@ namespace BCA_A1_207
     {
         static void Main(string[] args)
         {
-            // This is the Day 2 of C#
+
+            // this is single line comment
+
+            /* 
+            Muti 
+            Line
+            Comment
+             */
 
             // variable ( it is container which contains the value)
 
@@ -14,7 +21,7 @@ namespace BCA_A1_207
 
             // (data Type)(Variable)(operator)(value);
 
-            // Integer value (For Integer Value)
+            // int (For Integer Value)
 
             int number1 = 96;
             int numberTwo = 109;
@@ -65,6 +72,8 @@ namespace BCA_A1_207
             Console.Write("in the next Line");
             Console.WriteLine(" Mayukhjit");
             Console.Write("Chakraborty");
+
+            
 
         }
     }
