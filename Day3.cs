@@ -33,8 +33,6 @@ namespace BCA_A1_207
 
 
 
-
-
             Console.WriteLine(char1);
             Console.WriteLine (number1);
             Console.WriteLine (number2);
@@ -85,25 +83,6 @@ namespace BCA_A1_207
 
             num2 = num2 - 3;
             Console.WriteLine (num2);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         }

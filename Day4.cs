@@ -16,12 +16,15 @@ namespace BCA_A1_207
             double simpleInterest = (principle * rateOfInterest * time) / 100;
             Console.WriteLine(simpleInterest);
 
+
+
+
             //Swap two Numbers With Third variable
 
             int a = 10;
             int b = 40;
 
-            int c = a; // c=10
+            int c = a; // c=10 (This is the Third Variable)
             a= b; // a=40
             b= c; // b=10
 
@@ -53,11 +56,17 @@ namespace BCA_A1_207
             Console.WriteLine("Your Q is :" + q);
 
 
+
+
+
             // Print the Last digit of a number
 
             int number1 = 45678;
             int lastDigit = (number1 % 10);
             Console.WriteLine(lastDigit); // ans : 8
+
+
+
 
 
             // sum of n natural Numbers 

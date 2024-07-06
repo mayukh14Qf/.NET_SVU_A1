@@ -28,7 +28,8 @@ namespace BCA_A1_207
             }
 
 
-            // Positive or not
+
+            // Check A Number is Positive or not
 
             Console.WriteLine("Enter A Number : ");
             int number=Convert.ToInt32(Console.ReadLine());
@@ -46,7 +47,9 @@ namespace BCA_A1_207
                 Console.WriteLine("The Number is Negative");
             }
 
-            // Grading system using if else
+
+
+            // Grading system using (if-else)
 
             Console.WriteLine("Enter Your Number in Bengali");
             double bengali = Convert.ToDouble(Console.ReadLine());

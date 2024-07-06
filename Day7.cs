@@ -11,8 +11,7 @@ namespace BCA_A1_207
         static void Main(string[] args)
         {
 
-            // Even or Not 
-
+            // Check A number is Even or Not 
 
             Console.WriteLine("Enter a number");
             int number1= Convert.ToInt32(Console.ReadLine());
@@ -30,7 +29,9 @@ namespace BCA_A1_207
                 Console.WriteLine("This is Odd");
             }
 
-            // Vowel or not
+
+
+            // Check A particular Character is Vowel or not
 
             Console.WriteLine("Enter a Character :");
             char char1 = Convert.ToChar(Console.ReadLine());
@@ -44,6 +45,8 @@ namespace BCA_A1_207
             {
                 Console.WriteLine("This is Not Vowel");
             }
+
+
 
 
             // Max Among the three
@@ -75,7 +78,8 @@ namespace BCA_A1_207
 
 
 
-            // Check After division , is your output carry any decimal value or not
+
+            // Check After division , is your output carry any Floating point Integer value or not
 
 
             Console.WriteLine("Enter your 1st number");
@@ -84,7 +88,7 @@ namespace BCA_A1_207
             Console.WriteLine("Enter your 2nd number");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
-            if (num1 > num2)
+            if (num1 > num2) // Checking who is greater 
             {
                 if (num1 % num2 == 0)
                 {
@@ -106,6 +110,7 @@ namespace BCA_A1_207
                     Console.WriteLine("It is a Decimal Output");
                 }
             } 
+
 
         }
     }
