@@ -65,7 +65,7 @@ namespace BCA_A1_207
             double c = Convert.ToDouble(Console.ReadLine());
 
             double root1 = (-b + Math.Sqrt((b * b) - 4 * a * c)) / (2 * a);
-            double root2 = (-b + Math.Sqrt((b * b) - 4 * a * c)) / (2 * a);
+            double root2 = (-b - Math.Sqrt((b * b) - 4 * a * c)) / (2 * a);
 
 
             Console.WriteLine("Your one root is " + root1);
@@ -96,7 +96,7 @@ namespace BCA_A1_207
             }
             else if (char1 >= 'A' && char1 <= 'Z')
             {
-                Console.WriteLine("This is A Upper Case Alphabet");
+                Console.WriteLine("This is An Upper Case Alphabet");
             }
             else
             {
