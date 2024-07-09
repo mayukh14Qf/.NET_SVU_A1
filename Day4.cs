@@ -9,11 +9,11 @@ namespace BCA_A1_207
 
             // Simple Interest
 
-            double principle = 1234;
+            double principal = 1234;
             double rateOfInterest = 4;
             double time = 3;
 
-            double simpleInterest = (principle * rateOfInterest * time) / 100;
+            double simpleInterest = (principal * rateOfInterest * time) / 100;
             Console.WriteLine(simpleInterest);
 
 
