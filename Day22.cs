@@ -94,7 +94,6 @@ namespace BCA_A1_207
                 Console.WriteLine(name[i]);
             }
 
-
         }
     }    
 }
